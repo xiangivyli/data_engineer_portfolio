@@ -1,0 +1,22 @@
+version: '3'
+services:
+  webserver:
+    volumes:
+      - ./include/dataset:/usr/local/airflow/include/dataset
+      - ./logs:/usr/local/airflow/logs
+
+
+  scheduler:
+    volumes:
+      - ./logs:/usr/local/airflow/logs
+      - ./dags/dbt:/usr/local/airflow/dags/dbt
+ 
+
+    
+      
+  
+
+
+
+
+
