@@ -10,7 +10,7 @@ Some projects are folders in this repository, some projects are independent repo
 # Table of Contents
 ## Part A Cloud-based Data Warehouse
 
-### Job Postings on Linkedin
+### [Job Postings on Linkedin](https://github.com/xiangivyli/data_engineer_portfolio/tree/main/part_a_job_posting_linkedin_pipeline)
 
 Tools:
  - Python with Jupyter Notebook
