@@ -1,5 +1,7 @@
 # Data Engineer Portfolio
-The subdivision about data engineering, it covers airflow with high-level features and involves popular tools, like data transformation (dbt), infrastructure as code (terraform), data quality (soda), data visualisation (streamlit, Power BI), cloud-based data warehouse(BigQuery, Snowflake), etc. 
+The subdivision about data engineering, it covers **airflow** with high-level features and involves popular tools, like **data transformation (dbt)**, **infrastructure as code (terraform)**, **data quality (soda)**, **data visualisation (streamlit, Power BI)**, **cloud-based data warehouse(BigQuery, Snowflake)**, etc. 
+
+And also adds tiny projects for on-premises databases and Business Intelligence (BI) Tools.
 
 The purpose of each project is to automate end-to-end data pipelines (from raw data to data reporting), equipped with containerisation and infrastructure as code.
 
