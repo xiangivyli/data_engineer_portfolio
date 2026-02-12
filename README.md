@@ -89,3 +89,21 @@ Objectives:
   - Provide users a platform to retrieve information about **GDP**, **Life Satisfaction**, and **Education Level** for countries in different year
   - Give a general idea about this information for regions
   - Check the relationship between **education level** and **GDP per capita**
+
+
+## Part D Data Transformation - dbt bootcamp
+
+### [Data Exploration for Airbnb hosts in Berlin](https://github.com/xiangivyli/the_dbt_bootcamp)
+
+Tools:
+- Python 3.10.13
+- Environment: Codespaces
+- Data warehouse: Snowflake
+- Data transformation: dbt
+- BI tool: Preset
+- Data Quality: Great Expectation
+- Orchestration: Dagster
+
+Objectives:
+  - Use dbt to connect Snowflake and visualise the data transformation process
+  - A logical way to process data and visualise results with golden layer data
